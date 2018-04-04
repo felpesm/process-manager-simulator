@@ -7,13 +7,13 @@ It deals with terminal commands to create processes. On the moment of the execut
 ## How to use
 Basically, there's a makefile on the source code.
 You can compile the source code using gcc and gnu-make.
-Using the following command you will compile the source code:
+Using the following command will compile the source code:
 
 ```
 make compile
 ```
 
-The makefile automatically deletes the .o files, but you can use the following command:
+The command above automatically deletes the .o files, but you can use the following command:
 
 ```
 make clean
