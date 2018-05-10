@@ -1,5 +1,5 @@
 compile:
-	gcc source/process.c source/queue.c source/manager.c source/main.c -o main
+	gcc process.c queue.c manager.c main.c -o main
 	make clean
 
 clean:

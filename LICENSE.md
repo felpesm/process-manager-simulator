@@ -1,5 +1,7 @@
-# "THE BEER-WARE LICENSE" (Revision 42):
+"THE BEER-WARE LICENSE" (Revision 42):
 
 <fmalbernaz@protonmail.com> wrote this file. As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
 
-**Felipe Matheus Marcucci**
+This project is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Felipe Matheus M.
