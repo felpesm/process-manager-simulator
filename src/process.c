@@ -1,4 +1,4 @@
-#include "process.h"
+#include "../include/process.h"
 
 Process* createProcess(char *text){
     static int position = 0;

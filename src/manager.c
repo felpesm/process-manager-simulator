@@ -1,4 +1,4 @@
-#include "manager.h"
+#include "../include/manager.h"
 
 void insertTextOnQueue(char *text, Queue *f){
     insertOnQueue(createProcess(text), f);
