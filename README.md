@@ -57,4 +57,4 @@ And if you want to contribute coding the library, just fork it and send a pull r
 >
 >Felipe Matheus M.
 
-[LICENSE](./LICENSE.md)
+[LICENSE](./LICENSE)
