@@ -1,5 +1,4 @@
-# Process Manager Simulator
-
+# Process Scheduling Test
 ## Description
 
 In plan to develop my knowledge in C language, i developed that software.
